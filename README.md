@@ -128,7 +128,7 @@ Route::get('tag/{slug}', 'Web\PageController@tag')->name('tag');
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/DanielArturoAlejoAlvarez/supergamer. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/DanielArturoAlejoAlvarez/Supergamer. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
